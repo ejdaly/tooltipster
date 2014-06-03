@@ -11,11 +11,9 @@
 
 /* Use this next selector to style things like font-size and line-height: */
 .tooltipster-chromasearch .tooltipster-content {
-/*
 	font-family: Arial, sans-serif;
 	font-size: 14px;
 	line-height: 16px;
-*/
 	padding: 5px;
 	overflow: hidden;
 }
