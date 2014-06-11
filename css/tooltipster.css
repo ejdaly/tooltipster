@@ -1,30 +1,38 @@
 /****************************************************
 		This is the chromasearch theme 
 *****************************************************/
-.tooltipster-chromasearch {
-/*	border-radius: 5px; */
-  	border-radius: 5px 5px 0px 0px;
-/*	border: 2px solid #000;*/
-	background: #ebebeb;
-/*	color: #fff;*/
+.tooltipster-chromasearch-0 {
+  background: #ffffff;
+  border: 1px solid #fa1f7d;
 }
 
-/* Use this next selector to style things like font-size and line-height: */
-.tooltipster-chromasearch .tooltipster-content {
-/*
-	font-family: Arial, sans-serif;
-	font-size: 14px;
-	line-height: 16px;
-*/
+.tooltipster-chromasearch-0 .tooltipster-content {
 	padding: 5px;
 	overflow: hidden;
 }
 
-/* This next selector defines the color of the border on the outside of the arrow. This will automatically match the color and size of the border set on the main tooltip styles. Set display: none; if you would like a border around the tooltip but no border around the arrow */
-.tooltipster-chromasearch .tooltipster-arrow .tooltipster-arrow-border {
-	/* border-color: ... !important; */
+.tooltipster-chromasearch-1 {
+  background: #ffffff;
+  border: 1px solid #f6b533;
 }
 
+.tooltipster-chromasearch-1 .tooltipster-content {
+	padding: 5px;
+	overflow: hidden;
+}
+
+.tooltipster-chromasearch-2 {
+  background: #ffffff;
+  border: 1px  solid #00bade;
+}
+
+.tooltipster-chromasearch-2 .tooltipster-content {
+	padding: 5px;
+	overflow: hidden;
+}
+
+/****************************************************
+*****************************************************/
 
 
 /* This is the default Tooltipster theme (feel free to modify or duplicate and create multiple themes!): */
